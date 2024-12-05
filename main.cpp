@@ -55,7 +55,7 @@ int dealplayerI(int deck[52][2], int &dealtcards);
 
 // -------------Main------------//
 int main() {
-
+    
   // main menu
   option_selected =
       main_menu(); // Displays menu and verfifies input for menu selection
